@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Teksto metrikos</string>
+    <string name="app_subtitle">Teksto analizė ir statistika</string>
+    <string name="input_label">Įvesties tekstas</string>
+    <string name="input_hint">Įveskite arba įklijuokite tekstą čia...</string>
+    <string name="calculate_button">Skaičiuoti</string>
+    <string name="generate_sample_button">Sugeneruoti pavyzdį</string>
+    <string name="clear_button">Išvalyti</string>
+    <string name="clear_history_button">Išvalyti istoriją</string>
+    <string name="history_title">Skaičiavimų istorija (Runtime)</string>
+    <string name="history_empty">Skaičiavimų dar neatlikta. Įveskite tekstą arba sugeneruokite pavyzdį.</string>
+    <string name="error_empty_input">Įvesties laukas negali būti tuščias! Įveskite tekstą prieš skaičiuojant.</string>
+    <string name="metrics_title">Skaičiavimo rezultatai</string>
+    <string name="metric_sentences">Sakiniai</string>
+    <string name="metric_words">Žodžiai</string>
+    <string name="metric_characters">Rašybos ženklai</string>
+    <string name="metric_numbers">Skaičiai</string>
+    <string name="history_format_hint">Formatas: „Tekstas“ => Sakiniai, Žodžiai, Ženklai, Skaičiai</string>
+    <string name="language_switcher">Keisti kalbą</string>
+</resources>

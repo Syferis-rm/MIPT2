@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Text Metrics</string>
+    <string name="app_subtitle">Text analysis &amp; statistics</string>
+    <string name="input_label">Input Text</string>
+    <string name="input_hint">Enter or paste your text here...</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="generate_sample_button">Generate Sample</string>
+    <string name="clear_button">Clear</string>
+    <string name="clear_history_button">Clear History</string>
+    <string name="history_title">Calculation History (Runtime)</string>
+    <string name="history_empty">No calculations performed yet. Enter text or generate a sample to begin.</string>
+    <string name="error_empty_input">Input field cannot be empty! Please enter text before calculating.</string>
+    <string name="metrics_title">Calculation Results</string>
+    <string name="metric_sentences">Sentences</string>
+    <string name="metric_words">Words</string>
+    <string name="metric_characters">Characters</string>
+    <string name="metric_numbers">Numbers</string>
+    <string name="history_format_hint">Format: „Text“ => Sentences, Words, Characters, Numbers</string>
+    <string name="language_switcher">Switch language</string>
+</resources>
